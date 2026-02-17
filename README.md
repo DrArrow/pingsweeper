@@ -35,7 +35,7 @@ sudo apt install netcat iproute2 ieee-data
 
 Clone the repository:
 ```
-git clone https://github.com/yourusername/pingsweeper.git
+git clone https://github.com/DrArrow/pingsweeper.git
 cd pingsweeper
 chmod +x ping_sweeper.sh
 ```
@@ -154,4 +154,4 @@ Do not use on networks you do not own or have explicit permission to test.
 
 ## 📄 License
 
-MIT License (recommended)
+MIT License 
